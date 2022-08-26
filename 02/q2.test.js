@@ -1,4 +1,3 @@
-const { exportAllDeclaration } = require("@babel/types");
 const memo = require("./q2");
 
 describe("q2 - memo function", () => {
