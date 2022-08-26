@@ -1,0 +1,22 @@
+{
+  "name": "js-coding-challenges",
+  "version": "1.0.0",
+  "description": "The purpose of this repo is to provide some JavaScript coding exercises for developers to use to validate their skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nttant/js-coding-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nttant/js-coding-challenges/issues"
+  },
+  "homepage": "https://github.com/nttant/js-coding-challenges#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
