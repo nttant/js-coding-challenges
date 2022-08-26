@@ -31,7 +31,7 @@ describe("q3 - countWords function", () => {
     expect(hasError).toBe(true);
   });
 
-  it("treturn an empty object if argument string is empty", () => {
+  it("returns an empty object if argument string is empty", () => {
     const sentence = "";
 
     const result = countWords(sentence);
